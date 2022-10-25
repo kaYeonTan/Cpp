@@ -1,2 +1,3 @@
-﻿  Find.cpp
+﻿  PracticeTest.cpp
+C:\Users\수완\Documents\GitHub\Cpp\1021_String\1021_String\PracticeTest.cpp(29,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   1021_String.vcxproj -> C:\Users\수완\Documents\GitHub\Cpp\1021_String\Debug\1021_String.exe
