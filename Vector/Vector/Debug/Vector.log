@@ -1,8 +1,2 @@
-﻿  Practice.cpp
-C:\Users\수완\Documents\GitHub\Cpp\Vector\Vector\Practice.cpp(12,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\수완\Documents\GitHub\Cpp\Vector\Vector\Practice.cpp(21,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\수완\Documents\GitHub\Cpp\Vector\Vector\Practice.cpp(36,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\수완\Documents\GitHub\Cpp\Vector\Vector\Practice.cpp(53,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\수완\Documents\GitHub\Cpp\Vector\Vector\Practice.cpp(64,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\수완\Documents\GitHub\Cpp\Vector\Vector\Practice.cpp(70,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+﻿  Iterator.cpp
   Vector.vcxproj -> C:\Users\수완\Documents\GitHub\Cpp\Vector\Debug\Vector.exe
