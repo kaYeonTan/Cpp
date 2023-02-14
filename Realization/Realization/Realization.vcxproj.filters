@@ -18,5 +18,11 @@
     <ClCompile Include="문자열 정수변환.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="문자열 정수변환2cpp.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Delegate.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
