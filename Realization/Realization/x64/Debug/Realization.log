@@ -1,3 +1,3 @@
-﻿  문자열 정수변환2cpp.cpp
-C:\Users\JCnet\Desktop\Cpp\Realization\Realization\문자열 정수변환2cpp.cpp(7,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
-  Realization.vcxproj -> C:\Users\JCnet\Desktop\Cpp\Realization\x64\Debug\Realization.exe
+﻿  나이계산기.cpp
+C:\Users\etndh\OneDrive\문서\GitHub\Cpp\Realization\Realization\나이계산기.cpp(8,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Realization.vcxproj -> C:\Users\etndh\OneDrive\문서\GitHub\Cpp\Realization\x64\Debug\Realization.exe
