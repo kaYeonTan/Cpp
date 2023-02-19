@@ -12,7 +12,7 @@ using namespace std;
 int main()
 {
 	string str = "010014870";
-	long long int num = 0;
+	long long int num = 0; 
 	for (int i = 0; i < str.length(); i++)
 	{
 		//num += NumToStr(str[str.length()-i], i);
